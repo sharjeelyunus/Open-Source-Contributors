@@ -7,5 +7,14 @@
     "favoriteLanguage": "JavaScript",
     "city": "Bahawalpur",
     "oraginzation": "CareerNetwork"
+  },
+  {
+    "name": "Muhmmad Dawood Ajmal",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "DawoodNizami",
+    "favoriteLanguage": "php",
+    "city": "Bahawalpur",
+    "oraginzation": "Iub"
   }
 ]
