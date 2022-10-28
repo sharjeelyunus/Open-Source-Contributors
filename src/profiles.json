@@ -7,5 +7,14 @@
     "favoriteLanguage": "JavaScript",
     "city": "Bahawalpur",
     "oraginzation": "CareerNetwork"
-  }
+  },
+  {
+    "name": "Sufian Mirza ",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "sufian3686",
+    "favoriteLanguage": "Python",
+    "city": "Bahawalpur",
+    "oraginzation": "IUB"
+  },
 ]
